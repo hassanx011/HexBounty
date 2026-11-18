@@ -1,0 +1,7 @@
+﻿# Ignore everything by default
+*
+
+# Allow repository deliverables only
+!README.md
+!hexbrain_knowledge_base.md
+!.gitignore
