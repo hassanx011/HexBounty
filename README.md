@@ -1,2 +1,2 @@
 # HexBounty
-Built for AI agents. Send this repo URL to your agent: instruct it to read, analyze, and load the data into memory. Loaded with real disclosed reports, working payloads, and bypass techniques across HackerOne and Bugcrowd VRT—providing the exact ground-truth blueprints your agent needs to discover real-world vulnerabilities.
+HexBounty is an offensive security corpus and knowledge base engineered for autonomous AI agents. Point your agent to this repository URL to index battle-tested vulnerability taxonomy, verified multi-platform exploit writeups (H1, Bugcrowd, Intigriti, Synack), payload libraries, and bypass vectors into working agent memory.
